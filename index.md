@@ -1,3 +1,3 @@
 JPawlikowski page still in progress
 
-[Linkedin]: https://www.linkedin.com/in/jakub-pawlikowski-592269118/
+[Jakub Pawlikowski LinkedIn](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "MINA")
