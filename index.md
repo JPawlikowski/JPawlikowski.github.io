@@ -1,6 +1,6 @@
 
 ## [Jakub Pawlikowski's LinkedIn Page](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")
-  - Beware of embarassing profile picture
+  Beware of embarassing profile picture
  
 # Repos
 ## [Habitat - a Java project](https://github.com/JPawlikowski/Habitat-Project "Habitat")
