@@ -1,5 +1,7 @@
 
-## A modest yet hopeful github page by Jakub Pawlikowki
+## JPawlikowski, a github page
+
+"Computer Science is no more about computers than astronomy is about telescopes" - Dijkstra
 
 ## [Jakub Pawlikowski's LinkedIn Page](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")
   Beware of embarassing profile picture
