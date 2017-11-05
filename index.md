@@ -1,5 +1,5 @@
 
-Quotes - A very slowly growing and easily parsable linked-list of quotable sayings
+Quotes - A small and easily parsable array of quotable sayings
 - "Computer Science is no more about computers than astronomy is about telescopes" - Edsger Dijkstra
 - "One man's constant is another man's variable" - CS quotes datebase
 
