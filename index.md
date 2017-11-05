@@ -19,3 +19,5 @@ This is a part of an ecommerce web app (StockRender). This project was completed
 Just a few really simple python programs.
 ## [Most optimized search algorithm of all time! Millions of semi successful searches per millisecond!](https://google.com "Most optimized search algorithm of all time! Millions of semi successful searches per millisecond!")
 
+Notice: I found that [google.com](https://google.com) has been doing well recently, so I took the liberty of taking a note out of their design styles
+
