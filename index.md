@@ -1,5 +1,6 @@
 
 - "Computer Science is no more about computers than astronomy is about telescopes" - Edsger Dijkstra
+- "One man's constant is another man's variable" - CS quotes datebase
 
 ## [Jakub Pawlikowski's LinkedIn Page](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")
 *Beware of embarassing profile picture*
