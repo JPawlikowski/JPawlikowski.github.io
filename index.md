@@ -1,14 +1,11 @@
 
-Quotes - A small and easily parsable array of quotable sayings
+Quotes  
 - "Computer Science is no more about computers than astronomy is about telescopes" - Edsger Dijkstra
 - "One man's constant is another man's variable" - quotes query
 
-## [Jakub Pawlikowski's LinkedIn Page](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")
-*Beware of embarassing profile picture*
-  
+## [LinkedIn](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")  
  
-# Links to Repos 
-(psst - Click the red titles!)
+# Repos 
 ## [Habitat - a Java project](https://github.com/JPawlikowski/Habitat-Project "Habitat")
 Group Project done for McMaster 2nd Year Computer Science Course in collaboration with classmates (A.Moiz, K.Klaled, T.Philips & M.Makhdoomi). Uses optimized versions of Merge Sort, Binary Search and BST (Binary Search Tree) for large data sets.
 ## [Friendscrip web application](https://github.com/JPawlikowski/FriendScrip "Friendscrip web application")
