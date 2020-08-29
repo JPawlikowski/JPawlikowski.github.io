@@ -5,13 +5,18 @@ Quotes
 
 ## [LinkedIn](https://www.linkedin.com/in/jakub-pawlikowski-592269118/ "JPawlikowski LinkedIn")  
  
-# Repos 
+# Projects 
+## [Web Assembly Kernel for Jupyter](https://github.com/JPawlikowski/WebAssembly-Jupyter-Kernel)
+Run web assembly in jupyter, export functions and variables to be available alongside in python cells.
+Built in collaboration with Anthony Mella and Tyler Philips for 4TB3 Syntax Based Tools and Compilers final project
+Visit at .....TODO
+## [Virtual Reality Assistance Bot - Capstone Project](https://github.com/JPawlikowski/Capstone2019)
+Assistance bot which responds to speech input to assist users in virtual reality experiments.
+Project completed as 4ZP6 Engineering capstone project along with McMaster Decision Science Lab,
+In collaboration with Anthony Mella, Tyler Philips and Hamid Yuksel
 ## [Web Systems and Web Computing Project](https://github.com/JPawlikowski/4WW3_Project)
-Gas station reviews sample geo-reviews website, collaboration with Anthony Mella
+Gas station geo-reviews website, collaboration with Anthony Mella
 ## [Computer Graphics - OpenGL Project](https://github.com/JPawlikowski/3GC3_Project)
 3D paintball shooting game in OpenGL, collaboration with Tyler Philips
-## [Habitat - a Java project](https://github.com/JPawlikowski/Habitat-Project "Habitat")
-Group Project done for McMaster 2nd Year Computer Science Course in collaboration with classmates (A.Moiz, K.Klaled, T.Philips & M.Makhdoomi). Uses optimized versions of Merge Sort, Binary Search and BST (Binary Search Tree) for large data sets.
-## [Friendscrip web application](https://github.com/JPawlikowski/FriendScrip "Friendscrip web application")
-This was a project with the goal to assist in organizing items to be sold online as well as a calendar for scheduling meeting times, there is a login with Facebook process along with many other planned but never fully implemented features. The project was never completed due to management issues. The work was done in collaboration with AnthonyMella66 and Jordan Prada.
+
 
